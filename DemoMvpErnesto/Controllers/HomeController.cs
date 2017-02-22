@@ -22,7 +22,7 @@ namespace DemoMvpErnesto.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Pagina de contactos en Construcción.";
+            ViewData["Message"] = "Pagina de contactos en Construcción :).";
 
             return View();
         }
